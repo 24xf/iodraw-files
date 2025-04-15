@@ -1520,7 +1520,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="KoVDrpC7iMO_FTncaeV9-665" value="包含" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;exitX=1;exitY=0.62;entryX=0.69;entryY=0;rounded=1;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="KoVDrpC7iMO_FTncaeV9-418" target="KoVDrpC7iMO_FTncaeV9-563">
+        <mxCell id="KoVDrpC7iMO_FTncaeV9-665" value="包含" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;exitX=1;exitY=0.62;entryX=0.69;entryY=0;rounded=1;labelBackgroundColor=default;fontColor=default;" edge="1" parent="1" source="KoVDrpC7iMO_FTncaeV9-418" target="KoVDrpC7iMO_FTncaeV9-563">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2184" y="964" />
